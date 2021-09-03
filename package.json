@@ -1,12 +1,11 @@
 {
   "scripts": {
-    "dev": "nuxt-ts",
-    "build": "nuxt-ts build",
-    "generate": "nuxt-ts generate",
-    "start": "nuxt-ts start"
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
   },
   "dependencies": {
-    "@nuxt/typescript-runtime": "^2.1.0",
     "nuxt": "^2.15.8"
   },
   "devDependencies": {
