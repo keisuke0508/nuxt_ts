@@ -1,10 +1,31 @@
 [
   {
+    "name": "calendar",
+    "path": "/calendar",
+    "component": "/Users/onpa202103b/nuxt_ts/pages/calendar.vue",
+    "chunkName": "pages/calendar",
+    "_name": "_6754d49c"
+  },
+  {
+    "name": "drag_and_drop",
+    "path": "/drag_and_drop",
+    "component": "/Users/onpa202103b/nuxt_ts/pages/drag_and_drop.vue",
+    "chunkName": "pages/drag_and_drop",
+    "_name": "_1801a184"
+  },
+  {
     "name": "graph",
     "path": "/graph",
     "component": "/Users/onpa202103b/nuxt_ts/pages/graph.vue",
     "chunkName": "pages/graph",
     "_name": "_1e79338a"
+  },
+  {
+    "name": "picker",
+    "path": "/picker",
+    "component": "/Users/onpa202103b/nuxt_ts/pages/picker.vue",
+    "chunkName": "pages/picker",
+    "_name": "_52c6fbfc"
   },
   {
     "name": "index",

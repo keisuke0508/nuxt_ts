@@ -8,7 +8,19 @@
   "AppTitle": {
     "description": "Auto imported from components/common/AppTitle.vue"
   },
+  "CalendarMain": {
+    "description": "Auto imported from components/main/CalendarMain.vue"
+  },
+  "DragAndDrop": {
+    "description": "Auto imported from components/main/DragAndDrop.vue"
+  },
+  "Graph": {
+    "description": "Auto imported from components/main/Graph.vue"
+  },
   "IndexMain": {
     "description": "Auto imported from components/main/IndexMain.vue"
+  },
+  "PickerMain": {
+    "description": "Auto imported from components/main/PickerMain.vue"
   }
 }

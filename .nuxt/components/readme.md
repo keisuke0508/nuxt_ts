@@ -9,4 +9,8 @@ You can directly use them in pages and other components without the need to impo
 - `<AppHeader>` | `<app-header>` (components/common/AppHeader.vue)
 - `<AppSideMenu>` | `<app-side-menu>` (components/common/AppSideMenu.vue)
 - `<AppTitle>` | `<app-title>` (components/common/AppTitle.vue)
+- `<CalendarMain>` | `<calendar-main>` (components/main/CalendarMain.vue)
+- `<DragAndDrop>` | `<drag-and-drop>` (components/main/DragAndDrop.vue)
+- `<Graph>` | `<graph>` (components/main/Graph.vue)
 - `<IndexMain>` | `<index-main>` (components/main/IndexMain.vue)
+- `<PickerMain>` | `<picker-main>` (components/main/PickerMain.vue)
