@@ -8,7 +8,7 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import { Component, Vue } from 'nuxt-property-decorator'
 
 @Component
@@ -18,8 +18,10 @@ export default class AppSideMenu extends Vue {}
 <style lang="scss" scoped>
 .side_menu {
   display: block;
+  @media screen and (max-width: 767px) {
+    display: none;
+  }
   width: 250px;
-  margin-top: 60px;
   .content {
     display: block;
     width: 100%;

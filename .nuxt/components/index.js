@@ -1,5 +1,7 @@
 export { default as AppHeader } from '../../components/common/AppHeader.vue'
 export { default as AppSideMenu } from '../../components/common/AppSideMenu.vue'
+export { default as AppTitle } from '../../components/common/AppTitle.vue'
+export { default as IndexMain } from '../../components/main/IndexMain.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

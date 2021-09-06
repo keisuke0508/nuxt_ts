@@ -4,5 +4,11 @@
   },
   "AppSideMenu": {
     "description": "Auto imported from components/common/AppSideMenu.vue"
+  },
+  "AppTitle": {
+    "description": "Auto imported from components/common/AppTitle.vue"
+  },
+  "IndexMain": {
+    "description": "Auto imported from components/main/IndexMain.vue"
   }
 }
