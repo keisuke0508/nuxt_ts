@@ -1,5 +1,6 @@
 <template>
   <div class="side_menu">
+    <nuxt-link to="/" class="content">TOP</nuxt-link>
     <nuxt-link to="/" class="content">グラフ描画</nuxt-link>
     <nuxt-link to="/" class="content">カレンダー</nuxt-link>
     <nuxt-link to="/" class="content">ピッカー</nuxt-link>
@@ -17,7 +18,7 @@ export default class AppSideMenu extends Vue {}
 <style lang="scss" scoped>
 .side_menu {
   display: block;
-  width: 300px;
+  width: 250px;
   margin-top: 60px;
   .content {
     display: block;

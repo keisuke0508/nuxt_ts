@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "/Users/onpa202103b/nuxt_ts/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_344c390e"
+    "chunkName": "pages/index"
   }
 ]
