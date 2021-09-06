@@ -1,7 +1,7 @@
 <template>
   <div class="side_menu">
     <nuxt-link to="/" class="content">TOP</nuxt-link>
-    <nuxt-link to="/" class="content">グラフ描画</nuxt-link>
+    <nuxt-link to="/graph" class="content">グラフ描画</nuxt-link>
     <nuxt-link to="/" class="content">カレンダー</nuxt-link>
     <nuxt-link to="/" class="content">ピッカー</nuxt-link>
     <nuxt-link to="/" class="content">ドラッグ＆ドロップ</nuxt-link>

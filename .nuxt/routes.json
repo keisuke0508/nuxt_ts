@@ -1,5 +1,12 @@
 [
   {
+    "name": "graph",
+    "path": "/graph",
+    "component": "/Users/onpa202103b/nuxt_ts/pages/graph.vue",
+    "chunkName": "pages/graph",
+    "_name": "_1e79338a"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "/Users/onpa202103b/nuxt_ts/pages/index.vue",
